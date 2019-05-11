@@ -1,0 +1,2 @@
+# litecoin
+Script bot LiteCoinClickBot
